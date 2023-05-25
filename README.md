@@ -16,10 +16,16 @@ Specs:
 - Corsair iCue SP120 Fan x1
 
 Assembly Snapshots:
+Disassembly and picking out reusable components from the old PC (from the 2000s). Standing issues include obvious heat problems, failing motherboard sensors and failing RAM.
 <img src="assets/Leisure%202%20-%200%25.jpg" width="800"/>
+
+Assembly begins with CPU, RAM and M.2 SSD.
 <img src="assets/Leisure%202%20-%205%25.jpg" width="800"/>
+
+Seating the motherboard into the case. The three fans were pre-installed and hooked up to a separate controller that then connects to a set of USB3.0 pins on the motherboard. 
 <img src="assets/Leisure%202%20-%2010%25.jpg" width="800"/>
-TBA
+
+TBA for the following two photos
 <img src="" width="800"/>
 <img src="" width="800"/>
 
