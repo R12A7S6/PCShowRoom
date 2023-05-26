@@ -25,8 +25,10 @@ Assembly begins with CPU, RAM and M.2 SSD.
 Seating the motherboard into the case. The three fans were pre-installed and hooked up to a separate controller that then connects to a set of USB3.0 pins on the motherboard. 
 <img src="assets/Leisure%202%20-%2010%25.jpg" width="800"/>
 
-TBA for the following two photos
-<img src="" width="800"/>
+The standalone controller mentioned before is visible in the centre of this picture. This is the other side of the case with the cover removed. Cables on this side may have been fixed later on. ^Spoiler, they were not.
+<img src="assets/Leisure%202%20-%2015%25.jpg" width="800"/>
+
+TBA for Below
 <img src="" width="800"/>
 
 --- 
