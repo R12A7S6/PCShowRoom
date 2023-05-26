@@ -4,10 +4,10 @@ The following build is an Entertainment Center built for my brother with an RGB 
 <img src="assets/Leisure%202%20-%20100%25.jpg" width="800"/>
 
 Specs:
-- MSI *TBA* Motherboard
+- MSI MAG X570S Tomahawk MAX WIFI Motherboard
 - Ryzen 7 5800x
 - Corsair iCue H*TBA*i Liquid Cooler
-- RAM *TBA* 16GB (8GB x 2 Kit)
+- Gigabyte AORUS RGB DDR4-4400 16GB (8GB x 2 Kit)
 - Gigabyte *TBA* 2060
 - Samsung 970 EVO Plus 2TB
 - Samsung 980 Pro 2TB
@@ -38,7 +38,7 @@ Specs:
 - ASRock x570 Steel Legend WiFi AX
 - Ryzen 5 5600x
 - Deepcool AK620
-- G.Skill Ripjaws V 32GB DDR4-3600 (16GB x 2 Kit)
+- G.Skill Ripjaws V DDR4-3600 32GB (16GB x 2 Kit)
 - ASUS RTX 3080 TUF Gaming OC V2 10GB
 - Kingston KC3000 2TB
 - Intel 530 Series 120GB
