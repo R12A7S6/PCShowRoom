@@ -64,4 +64,4 @@ Specs:
 - MSI GTX 1060 GAMING X 6G (6GB)
 - Intel 530 Series 120GB
 - Seagate Barracuda 2TB
-- Unknown Mini Tower Case with Unknown Power Supply included
+- Unknown Mini Tower Case with an unknown Power Supply included
