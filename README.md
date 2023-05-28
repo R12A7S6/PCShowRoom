@@ -1,7 +1,7 @@
 # PCShowRoom
 
 The following build is an Entertainment Center built for my brother with an RGB LED request (12/2022):
-<img src="assets/Leisure%202%20-%20100%25.jpg" width="800"/>
+<img src="assets/Leisure%202%20-%2099%25.jpg" width="800"/>
 
 Specs:
 - MSI MAG X570S Tomahawk MAX WIFI Motherboard
@@ -9,8 +9,9 @@ Specs:
 - Corsair iCue H*TBA*i Liquid Cooler
 - Gigabyte AORUS RGB DDR4-4400 16GB (8GB x 2 Kit)
 - Gigabyte *TBA* 2060
-- Samsung 970 EVO Plus 2TB
-- Samsung 980 Pro 2TB
+- Samsung 970 EVO Plus 2TB SSD
+- Samsung 980 Pro 2TB SSD
+- *TBA* 2TB HDD
 - Corsair CX550M 550W Bronze Power Supply Unit
 - Corsair *TBA* Case
 - Corsair iCue SP120 Fan x1
@@ -23,13 +24,25 @@ Assembly begins with CPU, RAM and M.2 SSD.
 <img src="assets/Leisure%202%20-%205%25.jpg" width="800"/>
 
 Seating the motherboard into the case. The three fans were pre-installed and hooked up to a separate controller that then connects to a set of USB3.0 pins on the motherboard. 
-<img src="assets/Leisure%202%20-%2010%25.jpg" width="800"/>
-
-This is the other side of the case with the cover removed. The standalone controller mentioned before is visible at the centre of this picture. Cables on this side may have been fixed later on. <sup>Spoiler, they were not</sup>
 <img src="assets/Leisure%202%20-%2015%25.jpg" width="800"/>
 
-TBA for Below
-<img src="" width="800"/>
+This is the other side of the case with the cover removed. The standalone controller mentioned before is visible at the centre of this picture. Cables on this side may have been fixed later on. <sup>Spoiler, they were not</sup>
+<img src="assets/Leisure%202%20-%2020%25.jpg" width="800"/>
+
+In this shot, most of the connectors have been plugged in. Front panel connectors remain a challenge, but at least they were all bundled in pairs, unlike those in my first build...
+<img src="assets/Leisure%202%20-%2030%25.jpg" width="800"/>
+
+It was an enjoyment to put in most of these components that I had forgotten to take separate pictures for each of them. Because Ryzen 7 5800X does not include a thermal solution, I lent my brother a Wraith Stealth CPU air cooler from my Ryzen 5 5600X.
+<img src="assets/Leisure%202%20-%2080%25.jpg" width="800"/>
+
+First power up rarely works. Although the red light went away immediately after I snapped this, the boot failed to load the Windows 10 on the M.2 SSD. Turns out either the EFI partition or the bootloader was somehow on a 3.5' HDD. If you squint at this picture, there are no SATA connectors are plugged yet (far right of the GPU).    
+<img src="assets/Leisure%202%20-%2081%25.jpg" width="800"/>
+
+You can squint, and you will find the plugged in SATA connector in the next picture, but for this picture, the air cooler was swapped out for a liquid cooler my RGB brother picked. Personally, I have an aversion to Corsair's liquid coolers because their screw holes are too flimsy for re-installations. But still, CPU Temperature with my air cooler used to reach 80+ degrees Celsius under load, and I had to set up an underclock, but now it's never hit 70 even at stock frequency.    
+<img src="assets/Leisure%202%20-%2098%25.jpg" width="800"/>
+
+And it is done! The most smooth-sailing build I've experienced in terms of building to booting. There was an additional hiccup with the Corsair liquid cooler's screw holes not lining up with the Corsair PC case's at its top that came as a surprise. We ended up deciding to drill 2 holes on the case for it, fortunately it is a covered spot. Although I don't get to use this very pretty PC, it sure is nice to space out while looking at it.
+<img src="assets/Leisure%202%20-%2099%25.jpg" width="800"/>
 
 --- 
 
