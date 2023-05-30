@@ -8,7 +8,7 @@ Specs:
 - Ryzen 7 5800x
 - Corsair iCue H*TBA*i Liquid Cooler
 - Gigabyte AORUS RGB DDR4-4400 16GB (8GB x 2 Kit)
-- Gigabyte *TBA* 2060
+- Gigabyte RTX 2060 OC 6GB
 - Samsung 970 EVO Plus 2TB SSD
 - Samsung 980 Pro 2TB SSD
 - *TBA* 2TB HDD
