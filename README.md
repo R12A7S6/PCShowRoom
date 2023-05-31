@@ -20,28 +20,28 @@ Assembly Snapshots:
 Disassembly and picking out reusable components from the old PC (from the 2000s). Standing issues include obvious heat problems, failing motherboard sensors and failing RAM.
 <img src="assets/Leisure%202%20-%200%25.jpg" width="800"/>
 
-Assembly begins with CPU, RAM and M.2 SSD.
+Assembly began with the CPU, RAM and M.2 SSD.
 <img src="assets/Leisure%202%20-%205%25.jpg" width="800"/>
 
-Seating the motherboard into the case. The three fans were pre-installed and hooked up to a separate controller that then connects to a set of USB3.0 pins on the motherboard. 
+Seating the motherboard into the case. The three front fans were pre-installed and came hooked up to a separate controller that to the motherboard via a USB3.0 port. 
 <img src="assets/Leisure%202%20-%2015%25.jpg" width="800"/>
 
-This is the other side of the case with the cover removed. The standalone controller mentioned before is visible at the centre of this picture. Cables on this side may have been fixed later on. <sup>Spoiler, they were not</sup>
+This is the other side of the case with the cover removed. The controller mentioned before is visible at the centre of this picture. The cables on this side may be fixed later on. <sup>Spoiler, they were not</sup>
 <img src="assets/Leisure%202%20-%2020%25.jpg" width="800"/>
 
-In this shot, most of the connectors have been plugged in. Front panel connectors remain a challenge, but at least they were all bundled in pairs, unlike those in my first build...
+In this shot, most of the connectors have been plugged in. Front panel connectors remained a challenge, but at least they were all bundled in pairs, unlike those in my first build...
 <img src="assets/Leisure%202%20-%2030%25.jpg" width="800"/>
 
-It was an enjoyment to put in most of these components that I had forgotten to take separate pictures for each of them. Because Ryzen 7 5800X does not include a thermal solution, I lent my brother a Wraith Stealth CPU air cooler from my Ryzen 5 5600X.
+It was an enjoyment to put in many of these components, so much so that I had forgotten to take pictures for each of them. Also, because Ryzen 7 5800X does not include a thermal solution, I lent my brother a Wraith Stealth CPU air cooler from my Ryzen 5 5600X, will talk more about its adequacy below.
 <img src="assets/Leisure%202%20-%2080%25.jpg" width="800"/>
 
-First power up rarely works. Although the red light went away immediately after I snapped this, the boot failed to load the Windows 10 on the M.2 SSD. Turns out either the EFI partition or the bootloader was somehow on a 3.5' HDD. If you squint at this picture, there are no SATA connectors are plugged yet (far right of the GPU).    
+First boot rarely works. Although the red light here went away immediately after I snapped this, boot failed to load the Windows 10 on the M.2 SSD. Turns out that either the EFI partition or the bootloader was on the 3.5' HDD, of which if you squint, you can find that no SATA connectors are plugged in yet (far right of the GPU where the 24-pin bundle goes to the back).    
 <img src="assets/Leisure%202%20-%2081%25.jpg" width="800"/>
 
-You can squint, and you will find the plugged in SATA connector in the next picture, but for this picture, the air cooler was swapped out for a liquid cooler my RGB brother picked. Personally, I have an aversion to Corsair's liquid coolers because their screw holes are too flimsy for re-installations. But still, CPU Temperature with my air cooler used to reach 80+ degrees Celsius under load, and I had to set up an underclock, but now it's never hit 70 even at stock frequency.    
+You can squint again, and you will not see a plugged in SATA connector due to bad angle (my bad! Squint at the next picture though). But for this picture, the air cooler was swapped out for a liquid cooler that my RGB brother picked. Personally, I have an aversion to Corsair's liquid coolers because their screw holes are too flimsy for multiple re-installations (for cleaning or swapped). But still, CPU Temperature with the air cooler used to reach 80+ degrees Celsius under load, and I had to set up an under-clock. With a liquid cooler, it's never hit 70 even at stock frequency.
 <img src="assets/Leisure%202%20-%2098%25.jpg" width="800"/>
 
-And it is done! The most smooth-sailing build I've experienced in terms of building to booting. There was an additional hiccup with the Corsair liquid cooler's screw holes not lining up with the Corsair PC case's at its top that came as a surprise. We ended up deciding to drill 2 holes on the case for it, fortunately it is a covered spot. Although I don't get to use this very pretty PC, it sure is nice to space out while looking at it.
+And it is done! The most smooth-sailing build I've experienced in terms of building to booting. There was an additional hiccup with the Corsair liquid cooler's screw holes not lining up with the Corsair case's, which came as a surprise. It was a small misalignment, and we ended up deciding to enlarge the holes horizontally to fit it, plus it is at a spot that is covered by a dust filter that came with the case. Although I don't get to use this very pretty PC, it has been nice to space out while looking at it.
 <img src="assets/Leisure%202%20-%2099%25.jpg" width="800"/>
 
 --- 
