@@ -47,6 +47,7 @@ And it is done! The most smooth-sailing build I've experienced in terms of build
 --- 
 
 The following build is another Entertainment Center, built for myself with an emphasis on being upgradeable and using components of an older build (2014 - Present):
+
 Photo TBA
 
 Specs:
