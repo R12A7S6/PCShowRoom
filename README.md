@@ -6,14 +6,14 @@ The following build is an Entertainment Center built for my brother with an RGB 
 Specs:
 - MSI MAG X570S Tomahawk MAX WIFI Motherboard
 - Ryzen 7 5800x
-- Corsair iCue H*TBA*i Liquid Cooler
+- Corsair iCue H115i Liquid Cooler
 - Gigabyte AORUS RGB DDR4-4400 16GB (8GB x 2 Kit)
 - Gigabyte RTX 2060 OC 6GB
 - Samsung 970 EVO Plus 2TB SSD
 - Samsung 980 Pro 2TB SSD
 - *TBA* 2TB HDD
 - Corsair CX550M 550W Bronze Power Supply Unit
-- Corsair *TBA* Case
+- Corsair iCue 4000X RGB Case
 - Corsair iCue SP120 Fan x1
 
 Assembly Snapshots:
