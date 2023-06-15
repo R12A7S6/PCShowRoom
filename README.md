@@ -18,7 +18,7 @@ Specs:
 
 Assembly Snapshots:
 
-Disassembling the old PC (RIP, late 2000s - 2023) and picking out reusable components (ie. Power Supply, GPU, HDDs and a 2.5' SSD). Standing issues include obvious heat problems, failing motherboard sensors and failing RAM. 
+Disassembling the old PC (RIP, late 2000s - 2022) and picking out reusable components (ie. Power Supply, GPU, HDDs and a 2.5' SSD). Standing issues include obvious heat problems, failing motherboard sensors and failing RAM. 
 <img src="assets/Leisure%202%20-%200%25.jpg" width="800"/>
 
 Assembly began with the CPU, RAM and M.2 SSD.
@@ -47,27 +47,28 @@ And it is done! The most smooth-sailing build I've experienced in terms of build
 
 --- 
 
-The following build is another Entertainment Center, built for myself with an emphasis on being upgradeable and using components of an older build (2014 - Present):
+The following build is another Entertainment Center, built for myself with an emphasis on being repeatedly upgradeable, like the ship of Theseus except it can get better and better (2014 - Present):  
+(most components only recently replaced their older counterpart)
 
 Photo TBA
 
 Specs:
-- ASRock x570 Steel Legend WiFi AX
-- Ryzen 5 5600x
-- Deepcool AK620
-- G.Skill Ripjaws V DDR4-3600 32GB (16GB x 2 Kit)
-- ASUS RTX 3080 TUF Gaming OC V2 10GB
-- Kingston KC3000 2TB
+- ASRock x570 Steel Legend WiFi AX (2022)
+- Ryzen 5 5600x (2022)
+- Deepcool AK620 (2023)
+- G.Skill Ripjaws V DDR4-3600 32GB (16GB x 2 Kit) (2022)
+- ASUS RTX 3080 TUF Gaming OC V2 10GB (2022)
+- Kingston KC3000 2TB (2023)
 - Intel 530 Series 120GB
 - Seagate Barracuda 2TB
 - Cougar PowerX700 700W Bronze Power Supply Unit
 - Cougar Challenger 6HM6 Mid Tower Case
-- Arctic P14 Case Fan x3
+- Arctic P14 Case Fan x3 (2022)
 
 ---
 
-The following is my first build (~2012):
-(all components except the case and power supply transitioned into the above Cougar Challenger 6HM6 case after 2015)
+The following is my first build (~2012):  
+(at around 2015, all components except the case and power supply were moved into the Cougar Challenger 6HM6 case above)
 
 Photo N/A
 
