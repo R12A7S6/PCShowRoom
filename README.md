@@ -17,7 +17,8 @@ Specs:
 - Corsair iCue SP120 Fan x1
 
 Assembly Snapshots:
-Disassembly and picking out reusable components from the old PC (from the 2000s). Standing issues include obvious heat problems, failing motherboard sensors and failing RAM.
+
+Disassembling the old PC (RIP, late 2000s - 2023) and picking out reusable components (ie. Power Supply, GPU, HDDs and a 2.5' SSD). Standing issues include obvious heat problems, failing motherboard sensors and failing RAM. 
 <img src="assets/Leisure%202%20-%200%25.jpg" width="800"/>
 
 Assembly began with the CPU, RAM and M.2 SSD.
@@ -35,10 +36,10 @@ In this shot, most of the connectors have been plugged in. Front panel connector
 It was an enjoyment to put in many of these components, so much so that I had forgotten to take pictures for each of them. Also, because Ryzen 7 5800X does not include a thermal solution, I lent my brother a Wraith Stealth CPU air cooler from my Ryzen 5 5600X, will talk more about its adequacy below.
 <img src="assets/Leisure%202%20-%2080%25.jpg" width="800"/>
 
-First boot rarely works. Although the red light here went away immediately after I snapped this, boot failed to load the Windows 10 on the M.2 SSD. Turns out that either the EFI partition or the bootloader was on the 3.5' HDD, of which if you squint, you can find that no SATA connectors are plugged in yet (far right of the GPU where the 24-pin bundle goes to the back).    
+First boot rarely works. Although the red light from the POST (Power-On Self Test) here (on the right of the RAMs) went away immediately after I snapped this, boot failed to load the Windows 10 on the M.2 SSD. Turns out that either the EFI partition or the bootloader was on the 3.5' HDD, of which if you squint, you can find that no SATA connectors are plugged in yet (far right of the GPU, next to where the 24-pin bundle goes to the back).    
 <img src="assets/Leisure%202%20-%2081%25.jpg" width="800"/>
 
-You can squint again, and you will not see a plugged in SATA connector due to bad angle (my bad! Squint at the next picture though). But for this picture, the air cooler was swapped out for a liquid cooler that my RGB brother picked. Personally, I have an aversion to Corsair's liquid coolers because their screw holes are too flimsy for multiple re-installations (for cleaning or swapped). But still, CPU Temperature with the air cooler used to reach 80+ degrees Celsius under load, and I had to set up an under-clock. With a liquid cooler, it's never hit 70 even at stock frequency.
+You can squint again, and you will not see a plugged in SATA connector due to bad angle (my bad! Squint at the next picture though). But for this picture, the air cooler was swapped out for a liquid cooler that my RGB brother picked. Personally, I have an aversion to Corsair's liquid coolers because their screw holes are too flimsy for multiple re-installations (for cleaning or swapping). But still, CPU Temperature with the air cooler used to reach 80+ degrees Celsius under load, and I had to set up an under-clock. With a liquid cooler, it's never hit 70 even at its stock frequency.
 <img src="assets/Leisure%202%20-%2098%25.jpg" width="800"/>
 
 And it is done! The most smooth-sailing build I've experienced in terms of building to booting. There was an additional hiccup with the Corsair liquid cooler's screw holes not lining up with the Corsair case's, which came as a surprise. It was a small misalignment, and we ended up deciding to enlarge the holes horizontally to fit it, plus it is at a spot that is covered by a dust filter that came with the case. Although I don't get to use this very pretty PC, it has been nice to space out while looking at it.
