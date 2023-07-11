@@ -1,0 +1,229 @@
+<mxfile host="app.diagrams.net" modified="2023-07-11T10:00:06.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="cWueOqECK78uUjsPgNIk" version="21.6.1" type="device">
+  <diagram name="Page-1" id="cFIZZ4CqsxknPMJWiG0X">
+    <mxGraphModel dx="1981" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-2" value="CPU" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-3" target="CsXaPJ-_1LcKrDsVRI_9-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-3" value="Intel i5 3570" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-2" target="CsXaPJ-_1LcKrDsVRI_9-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="450" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-5" value="Motherboard" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="320" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-6" target="CsXaPJ-_1LcKrDsVRI_9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-6" value="Gigabyte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-5" target="CsXaPJ-_1LcKrDsVRI_9-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="560" as="sourcePoint" />
+            <mxPoint x="450" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-8" value="RAM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-9" target="CsXaPJ-_1LcKrDsVRI_9-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-9" value="Corsair Vengeance&amp;nbsp; DDR3 4GB x2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-8" target="CsXaPJ-_1LcKrDsVRI_9-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="680" as="sourcePoint" />
+            <mxPoint x="450" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-14" value="GPU" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="CsXaPJ-_1LcKrDsVRI_9-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-15" value="Intel HD Graphics 2500" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-14" target="CsXaPJ-_1LcKrDsVRI_9-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="800" as="sourcePoint" />
+            <mxPoint x="450" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-17" target="CsXaPJ-_1LcKrDsVRI_9-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="830" />
+              <mxPoint x="150" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="CsXaPJ-_1LcKrDsVRI_9-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="829.998823529412" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="150" y="831" />
+              <mxPoint x="150" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-17" target="CsXaPJ-_1LcKrDsVRI_9-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-17" value="Storage" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="800" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-18" value="HDD 1TB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-17" target="CsXaPJ-_1LcKrDsVRI_9-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1040" as="sourcePoint" />
+            <mxPoint x="450" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-20" value="Case" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="1040" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-21" target="CsXaPJ-_1LcKrDsVRI_9-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-21" value="Generic Mini Tower Case" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-20" target="CsXaPJ-_1LcKrDsVRI_9-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1280" as="sourcePoint" />
+            <mxPoint x="450" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-23" value="CPU Cooling" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="1160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-24" target="CsXaPJ-_1LcKrDsVRI_9-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-24" value="Intel Stock Cooler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-23" target="CsXaPJ-_1LcKrDsVRI_9-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1400" as="sourcePoint" />
+            <mxPoint x="450" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-26" value="Power Supply" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="1280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-27" target="CsXaPJ-_1LcKrDsVRI_9-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-27" value="Included with Case, &amp;lt;500W" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-26" target="CsXaPJ-_1LcKrDsVRI_9-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1520" as="sourcePoint" />
+            <mxPoint x="450" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-30" value="ASRock x570 Steel Legend WiFi AX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-32" value="AMD R5 5600X" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-35" target="CsXaPJ-_1LcKrDsVRI_9-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-35" value="Corsair Vengeance DDR3 4GB x4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-38" value="G.Skill Ripjaws V DDR4-3600 32GB (16GB x2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-40" target="CsXaPJ-_1LcKrDsVRI_9-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-40" value="MSI GTX 1060 GAMING X 6G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-42" value="ASUS RTX 3080 TUF Gaming OC V2 10GB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-45" value="Cougar Challenger 6HM6 Mid Tower Case" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-47" target="CsXaPJ-_1LcKrDsVRI_9-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-47" value="Corsair H60i" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-49" target="CsXaPJ-_1LcKrDsVRI_9-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-49" value="NZXT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-51" value="Deepcool AK620" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-54" value="Cougar PowerX700 700W Bronze" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-56" value="HDD Seagate Barracuda 7200RPM 2TB" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-58" value="SSD Samsung 840 EVO 250GB" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="919.94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-62" value="SSD Intel 530 Series 120GB" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CsXaPJ-_1LcKrDsVRI_9-64" source="CsXaPJ-_1LcKrDsVRI_9-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="840" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="360" y="830" />
+              <mxPoint x="360" y="810" />
+            </Array>
+            <mxPoint x="380" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-64" value="HDD Seagate Barracuda 7200RPM 2TB" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="CsXaPJ-_1LcKrDsVRI_9-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-67" value="Sapphire HD 7870" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
