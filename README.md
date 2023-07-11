@@ -54,7 +54,7 @@ Photo TBA
 
 Specs:
 - ASRock x570 Steel Legend WiFi AX (2022)
-- Ryzen 5 5600x (2022)
+- Ryzen 5 5600X (2022)
 - Deepcool AK620 (2023)
 - G.Skill Ripjaws V DDR4-3600 32GB (16GB x 2 Kit) (2022)
 - ASUS RTX 3080 TUF Gaming OC V2 10GB (2022)
@@ -77,7 +77,7 @@ Specs:
 - Intel Core i5-3570
 - Corsair H*TBA*i Liquid Cooler
 - Corsair Vengeance 16GB DDR3 (4GB x 2 Kit x 2)
-- MSI GTX 1060 GAMING X 6G (6GB)
+- Sapphire HD 7870 (*TBA*) / MSI GTX 1060 GAMING X 6G (6GB) (2016)
 - Intel 530 Series 120GB
 - Seagate Barracuda 2TB
-- Unknown Mini Tower Case with an unknown Power Supply included
+- Generic Mini Tower Case with an unknown Power Supply included
