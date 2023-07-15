@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T09:55:26.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="-LYcZuTtcsFSefkQetZ4" version="21.6.1" type="device">
+<mxfile host="app.diagrams.net" modified="2023-07-15T07:45:10.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="651p17Jx4Phcj303BYrK" version="21.6.1" type="device">
   <diagram name="Page-1" id="cFIZZ4CqsxknPMJWiG0X">
     <mxGraphModel dx="1012" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="CsXaPJ-_1LcKrDsVRI_9-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Verdana;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-9" target="CsXaPJ-_1LcKrDsVRI_9-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-9" value="Corsair Vengeance DDR3 4GB x2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-9" value="Corsair Vengeance DDR3 1600MHz 4GB x2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CsXaPJ-_1LcKrDsVRI_9-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-8" target="CsXaPJ-_1LcKrDsVRI_9-9">
@@ -177,7 +177,7 @@
         <mxCell id="CsXaPJ-_1LcKrDsVRI_9-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Verdana;" edge="1" parent="1" source="CsXaPJ-_1LcKrDsVRI_9-35" target="CsXaPJ-_1LcKrDsVRI_9-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-35" value="Corsair Vengeance DDR3 4GB x4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Verdana;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="CsXaPJ-_1LcKrDsVRI_9-35" value="Corsair Vengeance DDR3 1600MHz 4GB x4" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Verdana;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CsXaPJ-_1LcKrDsVRI_9-38" value="G.Skill Ripjaws V DDR4-3600 32GB (16GB x2)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;strokeColor=#ED1C24;" vertex="1" parent="1">
