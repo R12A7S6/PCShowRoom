@@ -66,7 +66,7 @@ Specs:
 - Cougar Challenger 6HM6 Mid Tower Case
 - Arctic P14 Case Fan x3 (2022)
 
-Upgrade history with transition from Build no. 1 to Build no. 2:
+Upgrade history with transitions from Build no.1 to Build no.2:
 
 <img src="assets/Upgrade History.drawio.png" width="800"/>
 
