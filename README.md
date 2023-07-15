@@ -68,7 +68,7 @@ Specs:
 
 Upgrade history with transition from Build no. 1 to Build no. 2:
 
-<img src="assets/Upgrade%20%History.drawio.png" width="800"/>
+<img src="assets/Upgrade History.drawio.png" width="800"/>
 
 In actuality, the upgrades were done more sporadically. They are only grouped up into 4 in this diagram for simplicity.
 
