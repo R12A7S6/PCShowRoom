@@ -47,8 +47,8 @@ And it is done! The most smooth-sailing build I've experienced in terms of build
 
 --- 
 
-The following build is another Entertainment Center, built for myself with an emphasis on being repeatedly upgradeable, like the ship of Theseus except it can get better and better (2014 - Present):  
-(most components only recently replaced their older counterpart)
+Build no. 2, built for myself with a case specifically picked to accommodate changes (2012 - Present):  
+(most components only recently replaced their older counterpart, a rough history is on a diagram further down)
 
 Photo TBA
 
@@ -58,26 +58,18 @@ Specs:
 - Deepcool AK620 (2023)
 - G.Skill Ripjaws V DDR4-3600 32GB (16GB x 2 Kit) (2022)
 - ASUS RTX 3080 TUF Gaming OC V2 10GB (2022)
-- Kingston KC3000 2TB (2023)
 - Intel 530 Series 120GB
-- Seagate Barracuda 2TB
-- Cougar PowerX700 700W Bronze Power Supply Unit
+- Samsung 840 EVO 240GB
+- Kingston KC3000 2TB (2023)
+- Seagate Barracuda 2TB x 2, 4TB x 1
+- Cougar PowerX700 700W Bronze Power Supply
 - Cougar Challenger 6HM6 Mid Tower Case
 - Arctic P14 Case Fan x3 (2022)
 
+Upgrade history with transition from Build no. 1 to Build no. 2:
+
+<img src="assets/Upgrade%20%History.drawio.png" width="800"/>
+
+In actuality, the upgrades were done more sporadically. They are only grouped up into 4 in this diagram for simplicity.
+
 ---
-
-The following is my first build (~2012):  
-(at around 2015, all components except the case and power supply were moved into the Cougar Challenger 6HM6 case above)
-
-Photo N/A
-
-Specs:
-- Gigabyte *TBA* Motherboard
-- Intel Core i5-3570
-- Corsair H*TBA*i Liquid Cooler
-- Corsair Vengeance 16GB DDR3 (4GB x 2 Kit x 2)
-- Sapphire HD 7870 (*TBA*) / MSI GTX 1060 GAMING X 6G (6GB) (2016)
-- Intel 530 Series 120GB
-- Seagate Barracuda 2TB
-- Generic Mini Tower Case with an unknown Power Supply included
