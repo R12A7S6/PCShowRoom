@@ -51,7 +51,9 @@ Although I won't get to use this PC, it has been a fun journey and I have since 
 Build no. 2, built for myself with a case specifically picked to accommodate changes (2012 - Present):  
 (most components only recently replaced their older counterpart, a rough history is on a diagram further down)
 
-Photo TBA
+<img src="assets/Leisure%201%20-%20Front.png" width="800"/>
+<img src="assets/Leisure%201%20-%20Front.jpg" width="800"/>
+<img src="assets/Leisure%201%20-%20Side%20Window.jpg" width="800"/>
 
 Specs:
 - ASRock x570 Steel Legend WiFi AX (2022)
