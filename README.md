@@ -71,6 +71,6 @@ Upgrade history with transitions from Build no.1 to Build no.2:
 
 <img src="assets/Upgrade History.drawio.png" width="750"/>
 
-In actuality, the upgrades were done more sporadically. They are only grouped into 4 in this diagram for simplicity's sake.
+In actuality, the upgrades were done more sporadically. They are grouped into 4 here only for simplicity's sake.
 
 ---
