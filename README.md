@@ -48,10 +48,9 @@ Although I won't get to use this PC, it has been a fun journey and I have since 
 
 --- 
 
-Build no. 2, built for myself with a case specifically picked to accommodate changes (2012 - Present):  
-(most components only recently replaced their older counterpart, a rough history is outlined in a diagram further down)
-
+Build no. 2 (and no. 1 to an extent), built for myself with an emphasis on being adaptable to changes (2012 - Present):
 <img src="assets/Leisure%201%20-%20Front.png" width="800"/>
+
 
 Specs:
 - ASRock x570 Steel Legend WiFi AX (2022)
@@ -67,10 +66,15 @@ Specs:
 - Cougar Challenger 6HM6 Mid Tower Case
 - Arctic P14 Case Fan x3 (2022)
 
-Upgrade history with transitions from Build no.1 to Build no.2:
+History of changes with transitions from Build no.1 to Build no.2:
 
 <img src="assets/Upgrade History.drawio.png" width="750"/>
 
-In actuality, the upgrades were done more sporadically. They are grouped into 4 here only for simplicity's sake.
+In actuality, the upgrades were done more sporadically over time. They are grouped into 4 here only for simplicity's sake.
 
 ---
+
+Build no. 1:
+Photos N/A at this time.
+
+See Build no. 2 for Specs.
