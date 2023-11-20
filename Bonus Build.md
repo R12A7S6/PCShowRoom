@@ -32,7 +32,7 @@ Fun fact, the motherboard's power connector is NOT on the right side next to the
 In the picture below, you can find 2 rusted VGA connectors, an unused 40mm case fan cutout and an 80mm case fan cutout occupied but secured with just 2 screws. Perhaps the builder saved them for another build.
 <img src="assets/Build%200%20-%20Back.jpg" width="800"/>
 
-In-between Build 0 and "my" first PC, there was also an Apple's iMac (now known as the iMac G3). My experience with it can be summed up with one word - **Nanosaur**.
+In-between Build 0 and "my" first PC, there was also an Apple's iMac (now known as the iMac G3). My experience with it can be summed up with one word - [**Nanosaur**](https://github.com/jorio/nanosaur).
 
 
 **References:**
