@@ -27,7 +27,7 @@ As mentioned, this one was built by my father. This is the second PC that I can 
 
 My contribution to this build was the build up of dust, wear, and the half-removed sticker on the CPU fan. Regarding the sticker, I remember that it was an attempt to lubricate the fan. I also tried to power up this build on 16/11/2023 for the first time in many years. The goal was to use its IDE interface to securely wipe an IDE HDD that belonged to my boss at Kellyville Chemist, with his permission. Regardless, powering up failed. The cause was either two broken power supplies, a failed power button, a failed motherboard, or any combination of the four.
 Fun fact, the motherboard's power connector is NOT on the right side next to the RAM, but below the bottom left corner of the CPU fan. I am speaking from first-hand experience...
-<img src="assets/Build%200%20-%20Side%202test.jpg" width="800"/>
+<img src="assets/Build%200%20-%20Side%202.jpg" width="800"/>
 
 In the picture below, you can find 2 rusted VGA connectors, an unused 40mm case fan cutout and an 80mm case fan cutout occupied but secured with just 2 screws. Perhaps the builder saved them for another build.
 <img src="assets/Build%200%20-%20Back.jpg" width="800"/>
