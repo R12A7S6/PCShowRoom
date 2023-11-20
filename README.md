@@ -96,4 +96,4 @@ Specs:
 
 
 
-<img src="assets/Build%200%20-%20Side%201.jpg" width="800"/>
+<img src="assets/Build%200%20-%20Side%201.png" width="800"/>
