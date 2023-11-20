@@ -78,22 +78,3 @@ Build no. 1:
 Photos N/A at this time.
 
 See Build no. 2 for Specs.
-
----
-
-Build no. 0 (Bonus), actually built by my Dad as a Home PC and became a hand-me-down for me. (Early 2000 - 2012?):
-<img src="assets/Build%200%20-%20Front.jpg" width="800"/>
-
-Specs:
-- EPox EP-4PLAI (Motherboard)
-- Intel Pentium 4 (Northwood or Prescott)
-- Intel Stock Cooler
-- Unknown brand and model of RAM. Possibly 2GB
-- Uncertain brand and unknown model of GPU. Possibly Sapphire's flavour of the Radeon line, with 256 or 512MB VRAM.
-- Unknown HDD x2. One on top is 80GB.
-- Unknown CD/DVD Drive x2.
-- Unknown Case. Possible Mecca CP-101 Future Dreamers Mid Tower, based on mentions from an online forum and a store's webpage.
-
-
-
-<img src="assets/Build%200%20-%20Side%201.png" width="800"/>
