@@ -76,7 +76,7 @@ Planned Upgrades are:
 - Ryzen 7 5800X3D, within 2 years. Otherwise, fresh build. 
 - RTX 4080 Ti or better.
 - A higher wattage Power Supply, as needed.
-- HDD to SSD, when financially feasible.
+- HDD to SSD, during sales and when financially feasible.
 
 ---
 
