@@ -1,4 +1,4 @@
-Build no. 0 (Bonus), actually built by my Dad as a Family PC but then became a hand-me-down for me. (Early 2000 - 2012?):
+Build no. 0 (Bonus), actually built by my Dad as a Family PC but became a hand-me-down for my personal use. (Early 2000 - 2012?):
 <img src="assets/Build%200%20-%20Front.jpg" width="800"/>
 
 Specs:
@@ -22,10 +22,10 @@ It was on this PC that I learnt how to:
 - end processes with Task Manager to free up RAM without crashing Windows XP
 - open the side panel of a desktop PC
 
-As mentioned, this one was built by my father. This is the second PC that I can call mine. "My" first PC now exists only in fading memories, it had a horizontal PC case instead of an upright one such as this. You might wonder why this PC has 2 CD/DVD Drive. Fragments of my memory indicate a salvage outcome from possibly that first PC or another PC from the same period. Anyway, the following is a side shot with the panel removed.
+As mentioned, this one was built by my father. This is the second PC that I can call mine. ("My first" PC now exists only in my fading memories.) You might wonder why this PC has 2 CD/DVD Drive. Fragments of my memory indicate a possible salvage outcome from either my first PC or another PC. Anyway, the following is a side shot of my second PC with the panel removed.
 <img src="assets/Build%200%20-%20Side%201.png" width="800"/>
 
-My contribution to this build was the build up of dust, wear, and the half-removed sticker on the CPU fan. Regarding the sticker, I remember that it was an attempt to lubricate the fan. I also tried to power up this build on 16/11/2023 for the first time in many years. The goal was to use its IDE interface to securely wipe an IDE HDD that belonged to my boss at Kellyville Chemist, with his permission. Regardless, powering up failed. The cause was either two broken power supplies, a failed power button, a failed motherboard, or any combination of the four.
+My contribution to this build was the build up of dust, wear, and the half-removed sticker on the CPU fan. About that sticker, I remember it as an attempt to lubricate the fan. I also tried to turn on this PC on 16/11/2023 for the first time in at least a decade. The goal was to use its IDE interface to help wipe an old IDE HDD that belonged to my boss at Kellyville Chemist, with his permission. Regardless, powering up failed. The cause was either the lack of a functional power supply, a failed power button, a failed motherboard, or any combination of the four.
 Fun fact, the motherboard's power connector is NOT on the right side next to the RAM, but below the bottom left corner of the CPU fan. I am speaking from first-hand experience...
 <img src="assets/Build%200%20-%20Side%202.jpg" width="800"/>
 
