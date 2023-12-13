@@ -72,9 +72,14 @@ History of changes with transitions from Build no.1 to Build no.2:
 
 In actuality, the upgrades were done more sporadically over time. They are grouped into 4 here only for simplicity's sake.
 
+Planned Upgrades are:
+- Ryzen 7 5800X3D, within 2 years. Otherwise, fresh build. 
+- RTX 4080 Ti or better.
+- A higher wattage Power Supply, as needed.
+- HDD to SSD, when financially feasible.
+
 ---
 
 Build no. 1:
-Photos N/A at this time.
 
-See Build no. 2 for Specs.
+Photos N/A. See Build no. 2 for Specs.
